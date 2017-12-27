@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lịch trình</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="no_to_dos">Bạn chưa có ghi chú công việc nào</string>
+    <string name="title">Nội dung công việc</string>
+    <string name="remind_me">Nhắc nhở tôi</string>
+    <string name="choose_date">Ngày</string>
+    <string name="choose_time">Giờ</string>
+    <string name="remind_date_and_time">Nhắc nhở bạn lúc %1$s, %2$s %3$s</string>
+    <string name="about">Thông tin</string>
+    <string name="app_version">Phiên bản đầu tiên</string>
+    <string name="contact_me">Liên hệ tác giả</string>
+    <string name="made_by">Tác giả: Bình vs Đạt-09</string>
+    <string name="done_label">Done</string>
+    <string name="date_reminder_default">Hôm nay</string>
+    <string name="date_error_check_again">Chúng tôi không thể quay lại quá khứ, mời nhập thời gian tại tương lai</string>
+    <string name="night_mode">Chế độ ban đêm</string>
+    <string name="night_mode_on_summary">Chế độ ban đêm bật</string>
+    <string name="night_mode_off_summary">Chế độ ban đêm tắt</string>
+
+    <string-array name="snooze_options">
+        <item>10 phút</item>
+        <item>30 phút</item>
+        <item>1 tiếng</item>
+    </string-array>
+
+    <string name="snooze">Snooze</string>
+    <string name="remove">Gỡ bỏ</string>
+    <string name="todo_error">Bạn chưa nhập nội dung...</string>
+</resources>
